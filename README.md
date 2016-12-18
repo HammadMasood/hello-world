@@ -1,3 +1,3 @@
 # hello-world
 Hello World!
-THis is the first file of this Branch
+This is the first file of this Branch
